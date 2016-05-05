@@ -22,7 +22,7 @@
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>Art Cool App</key>
+                <key>title</key>
                 <string>artcool.ipa</string>
             </dict>
         </dict>
