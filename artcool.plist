@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://xxx/xxx.ipa</string>
+                    <string>http://www.art-cool.cn/app/artcool.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.fnst.smartwork</string>
+                <string>cn.artcool.app</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>title</key>
-                <string>xxx.ipa</string>
+                <key>Art Cool App</key>
+                <string>artcool.ipa</string>
             </dict>
         </dict>
     </array>
